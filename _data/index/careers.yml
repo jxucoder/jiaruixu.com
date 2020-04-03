@@ -1,16 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Affirm
+  link: http://www.affirm.com/
+  date: Oct 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Data Scientist, Applied Machine Learning
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: PwC
+  link: http://www.pwc.com/
+  date: June 2017 - Aug 2017
+  job: Analytics Intern
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Amazon
+  link: https://www.amazon.com/
+  date: June 2016 - Aug 2016
+  job: Software Development Engineer Intern
+
+- name: Epic
+  link: https://www.epic.com/
+  date: June 2015 - Aug 2015
+  job: Software Developer Intern

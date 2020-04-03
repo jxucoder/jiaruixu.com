@@ -1,4 +1,10 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+- name: <a href='https://wefightcovid19.org' target='_blank'>We Fight COVID-19</a>
+  descr: "Daily updated case statistics of COVID-19 in the Bay Area with PPE donation map, community efforts, and other assistance information."
+  image: covid.jpg
+  github: https://github.com/wefightcovid19/We-Fight-COVID-19
+
+
+- name: <a href='https://jobsupport.club' target='_blank'>Job Support Club</a>
+  descr: "A central resource center for people seeking job support in times of hardship"
+  image: job.png
+  github: https://github.com/wefightcovid19/jobsupport.club
